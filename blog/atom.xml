@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jan.ai/blog</id>
+    <title>Jan Blog</title>
+    <updated>2024-01-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jan.ai/blog"/>
+    <subtitle>Jan Blog</subtitle>
+    <icon>https://jan.ai/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cultivating Culture in Open Source Contributions Beyond Code]]></title>
+        <id>https://jan.ai/blog/contributions</id>
+        <link href="https://jan.ai/blog/contributions"/>
+        <updated>2024-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to contribute to open-source projects without coding skills. This Jan post guides you through the essentials of non-code contributions, from documentation to community engagement. Learn practical ways to impact open-source initiatives, even if you're new to the field.]]></summary>
+        <content type="html"><![CDATA[<p>Ever wondered what ‘contribution’ really means in open-source communities? Calling back to John Picozzi’s presentation at DrupalCon 2022 and his article on <a href="https://opensource.com/article/22/8/non-code-contribution-powers-open-source" target="_blank" rel="noopener noreferrer">Opensource.com,</a> we look at how his views on contributions align with ours at <a href="https://jan.ai/" target="_blank" rel="noopener noreferrer">Jan</a></p>
+<p><img loading="lazy" alt="how to contribute opensource non-code" src="https://jan.ai/assets/images/01-how-to-contribute-to-open-source-non-code-a774ddaa51dee30b9101be2525271715.png" width="1600" height="609" class="img_ev3q"></p>
+<p><a href="https://jan.ai/about/#open-source" target="_blank" rel="noopener noreferrer">https://jan.ai/about/#open-source</a></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="broadening-the-definition-of-contribution---how-it-benefits-everyone">Broadening the Definition of Contribution - how it benefits everyone<a href="https://jan.ai/blog/contributions#broadening-the-definition-of-contribution---how-it-benefits-everyone" class="hash-link" aria-label="Direct link to Broadening the Definition of Contribution - how it benefits everyone" title="Direct link to Broadening the Definition of Contribution - how it benefits everyone">​</a></h4>
+<p>Contribution in open source isn’t just about coding, and Picozzi nails it with this point.</p>
+<p>At Jan, we’re all about embracing different skills — because that’s what fuels innovation and growth.</p>
+<blockquote>
+<p>Contribution? It’s when you take time to push forward ideas, vision, and awareness. Here are some solid ideas and how they’ve been executed before.</p>
+</blockquote>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="documentation---one-pillar-of-contribution">Documentation - One Pillar of Contribution<a href="https://jan.ai/blog/contributions#documentation---one-pillar-of-contribution" class="hash-link" aria-label="Direct link to Documentation - One Pillar of Contribution" title="Direct link to Documentation - One Pillar of Contribution">​</a></h4>
+<p>Remember those ancient storytellers and their crucial role in history? That’s what modern documentation does in tech. It’s the backbone of knowledge transfer. Without it, we’d be lost in translating what our products are all about.</p>
+<p><img loading="lazy" src="https://jan.ai/assets/images/01-credit-janhq-repo-3e17663f5068da3406738cf7695d0ef3.png" width="1224" height="764" class="img_ev3q">credit- Janhq/jan repo</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="writing-and-editing">Writing and Editing<a href="https://jan.ai/blog/contributions#writing-and-editing" class="hash-link" aria-label="Direct link to Writing and Editing" title="Direct link to Writing and Editing">​</a></h4>
+<p>Got a knack for words? Awesome! Making complex stuff easy and friendly is a real game-changer. Search around and see if your favourite open-source project has a tone of voice guide or style guide. (We’re currently making one!)</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="translating">Translating<a href="https://jan.ai/blog/contributions#translating" class="hash-link" aria-label="Direct link to Translating" title="Direct link to Translating">​</a></h4>
+<p>Speak another language? You could jump in and help translate documents. You’ll be flinging open doors for heaps of non-native language speakers and will scale awareness and adoption in a pretty big way.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="creating-tutorials-and-guides">Creating Tutorials and Guides<a href="https://jan.ai/blog/contributions#creating-tutorials-and-guides" class="hash-link" aria-label="Direct link to Creating Tutorials and Guides" title="Direct link to Creating Tutorials and Guides">​</a></h4>
+<p>Projects thrive on collective knowledge being shared. Maybe your way of contributing is helping newbies find their feet by showcasing how you use the product?</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="spreading-the-word--storytelling-and-marketing">Spreading the Word- Storytelling and ‘Marketing<a href="https://jan.ai/blog/contributions#spreading-the-word--storytelling-and-marketing" class="hash-link" aria-label="Direct link to Spreading the Word- Storytelling and ‘Marketing" title="Direct link to Spreading the Word- Storytelling and ‘Marketing">​</a></h3>
+<p>In the OS world, marketing is more about storytelling and community building than selling.</p>
+<p>Here’s what can make an impact that isn’t code-</p>
+<ul>
+<li>Social media, blogs, forums- When the folks running open source projects are knee-deep in code, spreading the word might slip their minds. Your tweets, blogs, and comments? They’re more impactful than you think.</li>
+</ul>
+<ul>
+<li>Content creation -If you’re into making videos or infographics, your skills can tell the project’s story in ways that really stick.</li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="event-planning-and-meetups">Event Planning and Meetups<a href="https://jan.ai/blog/contributions#event-planning-and-meetups" class="hash-link" aria-label="Direct link to Event Planning and Meetups" title="Direct link to Event Planning and Meetups">​</a></h4>
+<p>Hosting online meetups or webinars? It’s a great way to share knowledge, connect people, and gather feedback as to how people are connecting with the project.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="contributing-via-dot-connecting">Contributing via ‘Dot Connecting’<a href="https://jan.ai/blog/contributions#contributing-via-dot-connecting" class="hash-link" aria-label="Direct link to Contributing via ‘Dot Connecting’" title="Direct link to Contributing via ‘Dot Connecting’">​</a></h3>
+<p>Know people who might be interested or can chip in? Bringing in new energy and ideas is what keeps open source buzzing. Spot an opportunity for a partnership? Go for it!</p>
+<p>Linking up with educational bodies, non-profits, or businesses can work wonders depending on the projects end goals.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-people-contribute-to-open-source">Why People Contribute to Open Source<a href="https://jan.ai/blog/contributions#why-people-contribute-to-open-source" class="hash-link" aria-label="Direct link to Why People Contribute to Open Source" title="Direct link to Why People Contribute to Open Source">​</a></h3>
+<p>As Picozzi points out, it’s all about embracing every kind of skill. At Jan, we celebrate each team member’s unique contributions.</p>
+<p>It’s about being part of something bigger, honing new skills, and feeling that sense of belonging.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="what-the-companyproject-gets-out-of-it">What the Company/Project Gets Out of It<a href="https://jan.ai/blog/contributions#what-the-companyproject-gets-out-of-it" class="hash-link" aria-label="Direct link to What the Company/Project Gets Out of It" title="Direct link to What the Company/Project Gets Out of It">​</a></h4>
+<p>By valuing non-code contributions, open-source projects, and companies tap into a broader skill set, leading to more well-rounded development and problem-solving. A diverse community is key to Jan’s success, just like Picozzi emphasizes.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="challenges-in-non-code-contributing">Challenges in Non-Code Contributing<a href="https://jan.ai/blog/contributions#challenges-in-non-code-contributing" class="hash-link" aria-label="Direct link to Challenges in Non-Code Contributing" title="Direct link to Challenges in Non-Code Contributing">​</a></h3>
+<p>Imposter syndrome? We get it, and we’re tackling it by creating a welcoming space for all contributions. Jan’s big on balancing work, life, and contribution — integrating it into our culture without overwhelming the team.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="how-do-you-start-contributing-to-opensource">How Do You Start Contributing to OpenSource?<a href="https://jan.ai/blog/contributions#how-do-you-start-contributing-to-opensource" class="hash-link" aria-label="Direct link to How Do You Start Contributing to OpenSource?" title="Direct link to How Do You Start Contributing to OpenSource?">​</a></h4>
+<p>Just like Nike’s “just do it”, we’re all about making it easy for our team to dive into areas they’re passionate about. Here’s our <a href="https://github.com/janhq/jan/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22" target="_blank" rel="noopener noreferrer">labelled issues for contributors</a></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="heres-the-jan-readme">Here’s the <a href="https://github.com/janhq/jan?tab=readme-ov-file#readme" target="_blank" rel="noopener noreferrer">Jan readme</a><a href="https://jan.ai/blog/contributions#heres-the-jan-readme" class="hash-link" aria-label="Direct link to heres-the-jan-readme" title="Direct link to heres-the-jan-readme">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="join-us-on-discord"><a href="https://discord.gg/JPcNRaJyzJ" target="_blank" rel="noopener noreferrer">Join us on Discord</a><a href="https://jan.ai/blog/contributions#join-us-on-discord" class="hash-link" aria-label="Direct link to join-us-on-discord" title="Direct link to join-us-on-discord">​</a></h4>]]></content>
+        <author>
+            <name>Jan Team</name>
+        </author>
+        <category label="contribution" term="contribution"/>
+        <category label="jan" term="jan"/>
+    </entry>
+</feed>
